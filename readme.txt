@@ -11,3 +11,4 @@ git branch -d <branch_name>  #delete branch
 Creating a new branch is quick and simple.
 modify in origin/master
 modify in local master
+change in master
