@@ -12,3 +12,4 @@ Creating a new branch is quick and simple.
 modify in origin/master
 change in origin/master
 modify in local master
+change in master
