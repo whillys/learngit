@@ -7,3 +7,4 @@ Creating a new branch is quick.
 git branch <name> #create new branch 
 git branch #view the branch
 git merge <branch_name>
+git branch -d <branch_name>  #delete branch
