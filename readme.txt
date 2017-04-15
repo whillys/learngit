@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 git branch <name> #create new branch 
 git branch #view the branch
+git merge <branch_name>
